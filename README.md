@@ -18,7 +18,6 @@
 - [Screenshots](#screenshots)
 
 
-
 ## Introduction
 Benevole is *french* word which means Volunteer. This app is specifically designed to provide an interface between the people who want to do social work and the organizations which need those people. Through this app, the volunteers and the organizations can register and post various events which are going to take place nearby! The interested people can, then register for suitable events. The app serves as DSC IPCW's official entry to Google DSC Solution Challenge 2021. 
 
